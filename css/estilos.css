@@ -6,7 +6,23 @@ body
     font-size: 16px;
     margin: 0;
     padding: 0;
-    
+
+}
+
+#cabecera
+{
+    background: #33f;
+    color: white;
+    margin: 0;
+    padding: 0.5cm;
+
+}
+
+#cabecera #tagline
+{
+    font-weight: normal;
+    font-size: 0.8cm;
+
 }
 
 #container
